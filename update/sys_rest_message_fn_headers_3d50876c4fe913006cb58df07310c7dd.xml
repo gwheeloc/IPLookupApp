@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn_headers">
+    <sys_rest_message_fn_headers action="INSERT_OR_UPDATE">
+        <name>X-Authorization</name>
+        <rest_message_function display_value="Default GET">c450c72c4fe913006cb58df07310c7e7</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-15 15:18:03</sys_created_on>
+        <sys_id>3d50876c4fe913006cb58df07310c7dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>X-Authorization</sys_name>
+        <sys_package display_value="IPLookup" source="x_102055_iplookup">d946b6a04fe913006cb58df07310c755</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">d946b6a04fe913006cb58df07310c755</sys_scope>
+        <sys_update_name>sys_rest_message_fn_headers_3d50876c4fe913006cb58df07310c7dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-15 15:18:03</sys_updated_on>
+        <value>Bearer eyJFbXBsb3llZUlkIjoiMDY4Nzc0ICAgICIsIkxvZ2luTmFtZSI6Imd3aGVlbG9jayIsIkZpcnN0TmFtZSI6IkdsZW5uIiwiTGFzdE5hbWUiOiJXaGVlbG9jayIsIkZ1bGxOYW1lIjoiV2hlZWxvY2ssR2xlbm4gUiIsIkFwcGxpY2F0aW9uSWQiOjE0LCJBY2Nlc3NUeXBlSWQiOjksIkFjY2Vzc1R5cGUiOiJTdXBlciBVc2VyIiwiUmVhZE9ubHlBY2Nlc3MiOmZhbHNlLCJWYWxpZEZyb20iOiIyMDE4LTA0LTE1VDExOjAzOjEzLjY0MDk4NjEtMDQ6MDAiLCJWYWxpZFRpbGwiOiIyMDE4LTA0LTE2VDAzOjQzOjEzLjY0MDk4NjEtMDQ6MDAifQ==</value>
+    </sys_rest_message_fn_headers>
+</record_update>
